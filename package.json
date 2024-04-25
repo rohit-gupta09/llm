@@ -1,0 +1,11 @@
+{
+  "name": "llm-saas-master",
+  "version": "1.0.0",
+  "description": "LLM-SaaS (Large Language Modeling - Software as a Service) is an innovative platform harnessing the power of Large Language Models, driven by OpenAI's API, to provide a cutting-edge language modeling and learning experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
